@@ -1,4 +1,5 @@
 {
+  "stack": "heroku-22",
   "name": "CGM Remote Monitor",
   "repository": "https://github.com/nightscout/cgm-remote-monitor",
   "env": {
